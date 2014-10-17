@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[mqi:home|Door43 (mqi)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-mqi|d43-mqi repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-mqi/archive/master.zip|d43-mqi.zip]]
+
+**Recent Changes**
+{{changes>ns = mqi}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/mqi|Ethnologue data]]
+
